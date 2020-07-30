@@ -1,1 +1,1 @@
-This is an applicationa created to give random advice to users.
+This is an application created to give random advice to users.
